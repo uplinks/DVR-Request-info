@@ -61,6 +61,8 @@ npm start
         * Storage Type?  (HD only, HD + Cloud)
         * Any special materials needed? (ex. Conduits, Lock box)
 
+        Once the form is filled I should recieve an e-mail with the info.
+
 
 
 
