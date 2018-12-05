@@ -64,10 +64,16 @@ npm start
     Once the form is filled I should recieve an e-mail with the info.
 
 
-
-
-
 ### Dependencies
+EmailJS.com 
+To install EmailJS SDK using npm:
+	$ npm install emailjs-com --save
+
+
+
+
+
+
 
 ### License
 
