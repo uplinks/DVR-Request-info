@@ -51,17 +51,17 @@ npm start
 ```
 
 ### Architecture
-        * How many Cameras needed ?
-        * What type of Cameras? (Dome/Bullets/PTZ)
-        * DVR or NVR?
-        * How many channels?
-        * What type of wiring? (Cat5e or RG59)
-        * Average run length?
-        * Storage Size?  (4TB, 6TB, 12TB, Others)
-        * Storage Type?  (HD only, HD + Cloud)
-        * Any special materials needed? (ex. Conduits, Lock box)
+* How many Cameras needed ?
+* What type of Cameras? (Dome/Bullets/PTZ)
+* DVR or NVR?
+* How many channels?
+* What type of wiring? (Cat5e or RG59)
+* Average run length?
+* Storage Size?  (4TB, 6TB, 12TB, Others)
+* Storage Type?  (HD only, HD + Cloud)
+* Any special materials needed? (ex. Conduits, Lock box)
 
-        Once the form is filled I should recieve an e-mail with the info.
+    Once the form is filled I should recieve an e-mail with the info.
 
 
 
