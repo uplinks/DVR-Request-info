@@ -1,8 +1,6 @@
-# DVR-Request-info
-
 <img height="128px" width="128px" align="right" />
 
-# <project>
+# DVR-Request-info
 
 
 > Surveillance Camera installation fillup form
@@ -41,8 +39,8 @@
 #### Installation
 
 ```bash
-git clone https://github.com/<username>/<project>.git
-cd <project>
+git clone https://github.com/uplinks/DVR-Request-info.git
+cd DVR-Request-info
 npm install
 ```
 
@@ -53,11 +51,24 @@ npm start
 ```
 
 ### Architecture
+        * How many Cameras needed ?
+        * What type of Cameras? (Dome/Bullets/PTZ)
+        * DVR or NVR?
+        * How many channels?
+        * What type of wiring? (Cat5e or RG59)
+        * Average run length?
+        * Storage Size?  (4TB, 6TB, 12TB, Others)
+        * Storage Type?  (HD only, HD + Cloud)
+        * Any special materials needed? (ex. Conduits, Lock box)
+
+
+
+
 
 ### Dependencies
 
 ### License
 
-`<project>` is licensed under the [MIT License](https://github.com/<username>/<project>/blob/master/LICENSE).
+`DVR-Request-info` is licensed under the [MIT License](https://github.com/uplinks/DVR-Request-info/blob/master/LICENSE).
 
 All files located in the `node_modules` directory are externally maintained libraries used by this software which have their own licenses; it is recommend that you read them, as their terms may differ from the terms in the MIT License.
